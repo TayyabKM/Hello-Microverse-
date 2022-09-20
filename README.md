@@ -4,7 +4,8 @@
   - This READEME file
   - .html file
   - .css file 
-  - ignored test.md file
+  - ignored test.md file (present in .gitignore)
+  - Linters
 
  # Author
    Tayyab Irfan 
