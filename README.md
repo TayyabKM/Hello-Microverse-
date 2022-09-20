@@ -14,7 +14,7 @@
 
 - GitHub: [@TayyabKM](https://github.com/TayyabKM)
 - Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
-- LinkedIn: [kee.bot@icloud.com](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
+- LinkedIn: [Tayyab Irfan](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
 
 
 
