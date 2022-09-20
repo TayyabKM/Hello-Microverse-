@@ -1,17 +1,49 @@
-# Hello-Microverse
-  This is my project for microverse 
- # Contains:
-  - This READEME file
-  - .html file
-  - .css file 
-  - ignored test.md file (present in .gitignore)
-  - Linters
+#![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Built With
-  - HTML & CSS
-  
-  
+# Hello_Microverse
 
- # Author
-   Tayyab Irfan 
-  
+> First Microverse project which involved creating files with html and css as well as correcting using linters. Also gitbash was used to commit messages and push files from visual studio code into the github repository.
+
+
+## Built With
+
+- html
+- css
+
+## Authors
+
+- GitHub: [@TayyabKM](https://github.com/TayyabKM)
+- Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
+- LinkedIn: [kee.bot@icloud.com](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
+
+
+
+## List of technologies
+
+ - Visual Studio Code
+ - GitBash
+ - Github
+ 
+## Instuctions to set up project locally
+ - Download zip file of the project
+ - Extract folder to the hard drive
+ - Opened index.html file with any modern web browser i.e. chrome
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+##Licence
+ - This project is [MIT](./license) licensed.
+
+
